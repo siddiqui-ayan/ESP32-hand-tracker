@@ -1,6 +1,6 @@
 # ESP32-hand-tracker
 I made a automatic hand tracker using Python and an esp32 and some servos and a laser
-#hardware setup
+# hardware setup
 First of all get two servos and a pan-tilt mechanism
 Connect the pan Servo in pin no. 33 and tilt servo in pin no. 21 of the ESP 32
 # ESP code
